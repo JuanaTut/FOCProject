@@ -28,7 +28,7 @@ h2 {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgb(78, 214, 169);
+  background-color: white;
   -webkit-transition: .4s;
   transition: .4s;
   
@@ -43,7 +43,7 @@ h2 {
   width: 26px;
   left: 4px;
   bottom: 4px;
-  background-color: rgb(78, 214, 169);
+  background-color: white;
   -webkit-transition: .4s;
   transition: .4s;
 
